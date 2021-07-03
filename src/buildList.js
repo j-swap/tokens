@@ -26,7 +26,7 @@ const xchain = require("./tokens/xchain.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "DFY Tokens List",
+    name: "Jayswap Tokens List",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -35,7 +35,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/dfy-256.png",
+      "https://raw.githubusercontent.com/j-swap/tokens/main/src/images/jayswap-256.png",
     keywords: ["dfy", "default"],
     tokens: [
       ...bkc,
