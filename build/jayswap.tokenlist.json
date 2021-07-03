@@ -1,13 +1,13 @@
 {
   "name": "Jayswap Tokens List",
-  "timestamp": "2021-07-03T10:00:55.339Z",
+  "timestamp": "2021-07-03T10:13:48.148Z",
   "version": {
     "major": 6,
-    "minor": 33,
+    "minor": 34,
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/dfy-256.png",
+  "logoURI": "https://raw.githubusercontent.com/j-swap/tokens/main/src/images/jayswap-256.png",
   "keywords": [
     "dfy",
     "default"
