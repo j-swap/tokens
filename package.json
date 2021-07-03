@@ -1,0 +1,38 @@
+{
+  "name": "dfy-default-token-list",
+  "version": "6.33.0",
+  "description": "The DFY default token list",
+  "main": "build/dfy.tokenlist.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/dfy.tokenlist.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "build/sushiswap-default.tokenlist.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dfy-asia/default-token-list.git"
+  },
+  "keywords": [
+    "dfy",
+    "default",
+    "token",
+    "list"
+  ],
+  "author": "Matthew Lilley <hello@matthewlilley.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/sushiswap/default-token-list/issues"
+  },
+  "homepage": "https://github.com/sushiswap/default-token-list#readme",
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "@uniswap/token-lists": "^1.0.0-beta.19",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2"
+  }
+}
