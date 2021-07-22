@@ -1,43 +1,20 @@
 [
   {
-    "name": "Wrapped Token",
-    "symbol": "WXTH",
-    "address": "0xF84646c667B3E4d0CD74f4Bd1C1Ee7FDA119AE5b",
+    "name": "MePoint",
+    "symbol": "MEE",
+    "address": "0xa518f3438586a577B592067242774F348789455F",
     "chainId": 35,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/xth.png"
-  },
+    "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/mee_256.png"
+  },  
   {
-    "name": "BUSD Tokenine",
-    "symbol": "tkBUSD",
-    "address": "0x41A5aF300EeA705C73BB65d8DE9e032Ab9875529",
+    "name": "ShopLive Point",
+    "symbol": "SLP",
+    "address": "0x4B177d3Cddd8dF8E5BdC98588712344FBDbaB286",
     "chainId": 35,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/token/images/busd_32.png"
-  },
-  {
-    "name": "USDT Tokenine",
-    "symbol": "tkUSDT",
-    "address": "0xD056BA4eeC61eCeD59753dcf603e8825b8f07C25",
-    "chainId": 35,
-    "decimals": 18,
-    "logoURI": "https://bscscan.com/token/images/busdt_32.png"
-  },
-  {
-    "name": "JFIN Tokenine",
-    "symbol": "tkJFIN",
-    "address": "0x1b159f96B83805433D6db857cB83b8aA47B23245",
-    "chainId": 35,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/jfin_35.png"
-  },
-  {
-    "name": "SCZ Tokenine",
-    "symbol": "tkSCZ",
-    "address": "0x91c84DE7f4b347D3934A0f699A58521e95533ce0",
-    "chainId": 35,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/scz.png"
-  }
-  
+    "logoURI": "https://raw.githubusercontent.com/dfy-asia/default-token-list/main/src/images/slp_256.png"
+  }  
+
+ 
 ]

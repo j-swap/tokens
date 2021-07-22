@@ -1,6 +1,6 @@
 {
   "name": "jswap-default-token-list",
-  "version": "6.34.0",
+  "version": "6.35.0",
   "description": "The jayswap default token list",
   "main": "build/jayswap.tokenlist.json",
   "scripts": {
